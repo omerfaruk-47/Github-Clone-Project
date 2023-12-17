@@ -1,0 +1,30 @@
+.Main-following-content {
+  display: flex;
+  margin-left: 30px;
+  position: relative;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  color: rgb(39, 34, 34);
+}
+.Main-following-content:hover {
+  color: rgb(20, 20, 204);
+}
+.Main-following-content i {
+  margin-right: 7px;
+  align-items: center;
+  justify-content: center;
+}
+
+.Main-contact {
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+.Main-contact span {
+  color: rgb(39, 34, 34);
+}
+.Main-contact i {
+  padding: 5px;
+}/*# sourceMappingURL=_contact.css.map */

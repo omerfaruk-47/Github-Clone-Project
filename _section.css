@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.Main-statüs {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-top: -230px;
+  margin-bottom: 60px;
+}
+
+.Main-statüs-content {
+  width: 70%;
+  height: auto;
+  display: block;
+  margin: 5px 15px auto 200px;
+  margin-right: -100px;
+  margin-bottom: 20px;
+}
+
+.Main-statüs-content img {
+  max-width: 100%;
+  height: auto;
+}/*# sourceMappingURL=_section.css.map */
